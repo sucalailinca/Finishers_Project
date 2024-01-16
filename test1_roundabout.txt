@@ -1,0 +1,136 @@
+Paused....
+ ExecutionList []
+[T1 conditions are false]0[T2 conditions are false]0[T3 conditions are false]0[T4 conditions are false]0[T11 conditions are false]0[T7 conditions are false]0[T8 conditions are false]0[T9 conditions are false]0[T12 conditions are false]0[T5 conditions are false]0[T6 conditions are false]0[T10 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P1|(NULL)|  P2|(NULL)|  P3|()|  P4|()|  P11|()|  P5(Null)  P6(Null)  P7(model-number)  P8(Null)  P9(Null)  P10(Null)  P12(Null)]
+ ExecutionList []
+[T1 conditions are false]0[T2 conditions are false]0[T3 conditions are false]0[T4 conditions are false]0[T11 conditions are false]0[T7 conditions are false]0[T8 conditions are false]0[T9 conditions are false]0[T12 conditions are false]0[T5 conditions are false]0[T6 conditions are false]0[T10 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P1|(NULL)|  P2|(NULL)|  P3|()|  P4|()|  P11|()|  P5(Null)  P6(Null)  P7(model-number)  P8(Null)  P9(Null)  P10(Null)  P12(Null)]
+ ExecutionList []
+[T1 conditions are false]0[T2 conditions are false]0[T3 conditions are false]0[T4 conditions are false]0[T11 conditions are false]0[T7 conditions are false]0[T8 conditions are false]0[T9 conditions are false]0[T12 conditions are false]0[T5 conditions are false]0[T6 conditions are false]0[T10 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P1|(NULL)|  P2|(NULL)|  P3|()|  P4|()|  P11|()|  P5(Null)  P6(Null)  P7(model-number)  P8(Null)  P9(Null)  P10(Null)  P12(Null)]
+ ExecutionList []
+[T1 conditions are false]0[T2 conditions are false]0[T3 conditions are false]0[T4 conditions are false]0[T11 conditions are false]0[T7 conditions are false]0[T8 conditions are false]0[T9 conditions are false]0[T12 conditions are false]0[T5 conditions are false]0[T6 conditions are false]0[T10 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P1|(NULL)|  P2|(NULL)|  P3|()|  P4|()|  P11|()|  P5(Null)  P6(Null)  P7(model-number)  P8(Null)  P9(Null)  P10(Null)  P12(Null)]
+ ExecutionList []
+[T1 conditions are false]0[T2 conditions are false]0[T3 conditions are false]0[T4 conditions are false]0[T11 conditions are false]0[T7 conditions are false]0[T8 conditions are false]0[T9 conditions are false]0[T12 conditions are false]0[T5 conditions are false]0[T6 conditions are false]0[T10 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P1|(NULL)|  P2|(NULL)|  P3|()|  P4|()|  P11|()|  P5(Null)  P6(Null)  P7(model-number)  P8(Null)  P9(Null)  P10(Null)  P12(Null)]
+ ExecutionList []
+[T1 conditions are false]0[T2 conditions are false]0[T3 conditions are false]0[T4 conditions are false]0[T11 conditions are false]0[T7 conditions are false]0[T8 conditions are false]0[T9 conditions are false]0[T12 conditions are false]0[T5 conditions are false]0[T6 conditions are false]0[T10 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P1|(NULL)|  P2|(NULL)|  P3|()|  P4|()|  P11|()|  P5(Null)  P6(Null)  P7(model-number)  P8(Null)  P9(Null)  P10(Null)  P12(Null)]
+ ExecutionList []
+[T1 conditions are false]0[T2 conditions are false]0[T3 conditions are false]0[T4 conditions are false]0[T11 conditions are false]0[T7 conditions are false]0[T8 conditions are false]0[T9 conditions are false]0[T12 conditions are false]0[T5 conditions are false]0[T6 conditions are false]0[T10 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P1|(NULL)|  P2|(NULL)|  P3|()|  P4|()|  P11|()|  P5(Null)  P6(Null)  P7(model-number)  P8(Null)  P9(Null)  P10(Null)  P12(Null)]
+ ExecutionList []
+[T1 conditions are false]0[T2 conditions are false]0[T3 conditions are false]0[T4 conditions are false]0[T11 conditions are false]0[T7 conditions are false]0[T8 conditions are false]0[T9 conditions are false]0[T12 conditions are false]0[T5 conditions are false]0[T6 conditions are false]0[T10 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P1|(NULL)|  P2|(NULL)|  P3|()|  P4|()|  P11|()|  P5(Null)  P6(Null)  P7(model-number)  P8(Null)  P9(Null)  P10(Null)  P12(Null)]
+ ExecutionList [T7 Temp Marking []]
+[T1 conditions are false]0[T2 conditions are false]0[T3 conditions are false]0[T4 conditions are false]0[T11 conditions are false]0[T8 conditions are false]0[T9 conditions are false]0[T12 conditions are false]0[T5 conditions are false]0[T6 conditions are false]0[T10 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P1|(NULL)|  P2|(P2(model-number))|  P3|()|  P4|()|  P11|()|  P5(Null)  P6(Null)  P7(Null)  P8(Null)  P9(Null)  P10(Null)  P12(Null)]
+ ExecutionList [T1 Temp Marking []]
+[T2 conditions are false]0[T3 conditions are false]0[T4 conditions are false]0[T11 conditions are false]0[T7 conditions are false]0[T8 conditions are false]0[T9 conditions are false]0[T12 conditions are false]0[T5 conditions are false]0[T6 conditions are false]0[T10 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P1|(P1(model-number))|  P2|()|  P3|()|  P4|()|  P11|()|  P5(Null)  P6(Null)  P7(Null)  P8(Null)  P9(Null)  P10(Null)  P12(Null)]
+ ExecutionList [T5 Temp Marking [P5(model-number)]]
+[T1 conditions are false]0[T2 conditions are false]0[T3 conditions are false]0[T4 conditions are false]0[T11 conditions are false]0[T7 conditions are false]0[T8 conditions are false]0[T9 conditions are false]0[T12 conditions are false]0[T6 conditions are false]0[T10 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P1|()|  P2|()|  P3|()|  P4|()|  P11|()|  P5(model-number)  P6(Null)  P7(Null)  P8(Null)  P9(Null)  P10(Null)  P12(Null)]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P5
+ ExecutionList []
+[T1 conditions are false]0[T2 conditions are false]0[T3 conditions are false]0[T4 conditions are false]0[T11 conditions are false]0[T7 conditions are false]0[T8 conditions are false]0[T9 conditions are false]0[T12 conditions are false]0[T5 conditions are false]0[T6 conditions are false]0[T10 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P1|()|  P2|()|  P3|()|  P4|()|  P11|()|  P5(Null)  P6(Null)  P7(Null)  P8(Null)  P9(Null)  P10(Null)  P12(Null)]
+ ExecutionList []
+[T1 conditions are false]0[T2 conditions are false]0[T3 conditions are false]0[T4 conditions are false]0[T11 conditions are false]0[T7 conditions are false]0[T8 conditions are false]0[T9 conditions are false]0[T12 conditions are false]0[T5 conditions are false]0[T6 conditions are false]0[T10 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P1|()|  P2|()|  P3|()|  P4|()|  P11|()|  P5(Null)  P6(Null)  P7(Null)  P8(Null)  P9(Null)  P10(Null)  P12(Null)]
+ ExecutionList []
+[T1 conditions are false]0[T2 conditions are false]0[T3 conditions are false]0[T4 conditions are false]0[T11 conditions are false]0[T7 conditions are false]0[T8 conditions are false]0[T9 conditions are false]0[T12 conditions are false]0[T5 conditions are false]0[T6 conditions are false]0[T10 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P1|()|  P2|()|  P3|()|  P4|()|  P11|()|  P5(Null)  P6(Null)  P7(Null)  P8(Null)  P9(Null)  P10(Null)  P12(Null)]
+ ExecutionList []
+[T1 conditions are false]0[T2 conditions are false]0[T3 conditions are false]0[T4 conditions are false]0[T11 conditions are false]0[T7 conditions are false]0[T8 conditions are false]0[T9 conditions are false]0[T12 conditions are false]0[T5 conditions are false]0[T6 conditions are false]0[T10 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P1|()|  P2|()|  P3|()|  P4|()|  P11|()|  P5(Null)  P6(Null)  P7(Null)  P8(Null)  P9(Null)  P10(Null)  P12(Null)]
+ ExecutionList []
+[T1 conditions are false]0[T2 conditions are false]0[T3 conditions are false]0[T4 conditions are false]0[T11 conditions are false]0[T7 conditions are false]0[T8 conditions are false]0[T9 conditions are false]0[T12 conditions are false]0[T5 conditions are false]0[T6 conditions are false]0[T10 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P1|()|  P2|()|  P3|()|  P4|()|  P11|()|  P5(Null)  P6(Null)  P7(Null)  P8(Null)  P9(Null)  P10(Null)  P12(Null)]
+ ExecutionList []
+[T1 conditions are false]0[T2 conditions are false]0[T3 conditions are false]0[T4 conditions are false]0[T11 conditions are false]0[T7 conditions are false]0[T8 conditions are false]0[T9 conditions are false]0[T12 conditions are false]0[T5 conditions are false]0[T6 conditions are false]0[T10 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P1|()|  P2|()|  P3|()|  P4|()|  P11|()|  P5(Null)  P6(Null)  P7(Null)  P8(Null)  P9(Null)  P10(Null)  P12(Null)]
+ ExecutionList []
+[T1 conditions are false]0[T2 conditions are false]0[T3 conditions are false]0[T4 conditions are false]0[T11 conditions are false]0[T7 conditions are false]0[T8 conditions are false]0[T9 conditions are false]0[T12 conditions are false]0[T5 conditions are false]0[T6 conditions are false]0[T10 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P1|()|  P2|()|  P3|()|  P4|()|  P11|()|  P5(Null)  P6(Null)  P7(Null)  P8(Null)  P9(Null)  P10(Null)  P12(Null)]
+ ExecutionList []
+[T1 conditions are false]0[T2 conditions are false]0[T3 conditions are false]0[T4 conditions are false]0[T11 conditions are false]0[T7 conditions are false]0[T8 conditions are false]0[T9 conditions are false]0[T12 conditions are false]0[T5 conditions are false]0[T6 conditions are false]0[T10 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P1|()|  P2|()|  P3|()|  P4|()|  P11|()|  P5(Null)  P6(Null)  P7(Null)  P8(Null)  P9(Null)  P10(Null)  P12(Null)]
+ ExecutionList []
+[T1 conditions are false]0[T2 conditions are false]0[T3 conditions are false]0[T4 conditions are false]0[T11 conditions are false]0[T7 conditions are false]0[T8 conditions are false]0[T9 conditions are false]0[T12 conditions are false]0[T5 conditions are false]0[T6 conditions are false]0[T10 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P1|()|  P2|()|  P3|()|  P4|()|  P11|()|  P5(Null)  P6(Null)  P7(Null)  P8(Null)  P9(Null)  P10(Null)  P12(Null)]
+ ExecutionList []
+[T1 conditions are false]0[T2 conditions are false]0[T3 conditions are false]0[T4 conditions are false]0[T11 conditions are false]0[T7 conditions are false]0[T8 conditions are false]0[T9 conditions are false]0[T12 conditions are false]0[T5 conditions are false]0[T6 conditions are false]0[T10 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P1|()|  P2|()|  P3|()|  P4|()|  P11|()|  P5(Null)  P6(Null)  P7(Null)  P8(Null)  P9(Null)  P10(Null)  P12(Null)]
+ ExecutionList []
+[T1 conditions are false]0[T2 conditions are false]0[T3 conditions are false]0[T4 conditions are false]0[T11 conditions are false]0[T7 conditions are false]0[T8 conditions are false]0[T9 conditions are false]0[T12 conditions are false]0[T5 conditions are false]0[T6 conditions are false]0[T10 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P1|()|  P2|()|  P3|()|  P4|()|  P11|()|  P5(Null)  P6(Null)  P7(Null)  P8(Null)  P9(Null)  P10(Null)  P12(Null)]
+ ExecutionList []
+[T1 conditions are false]0[T2 conditions are false]0[T3 conditions are false]0[T4 conditions are false]0[T11 conditions are false]0[T7 conditions are false]0[T8 conditions are false]0[T9 conditions are false]0[T12 conditions are false]0[T5 conditions are false]0[T6 conditions are false]0[T10 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P1|()|  P2|()|  P3|()|  P4|()|  P11|()|  P5(Null)  P6(Null)  P7(Null)  P8(Null)  P9(Null)  P10(Null)  P12(Null)]
+ ExecutionList []
+[T1 conditions are false]0[T2 conditions are false]0[T3 conditions are false]0[T4 conditions are false]0[T11 conditions are false]0[T7 conditions are false]0[T8 conditions are false]0[T9 conditions are false]0[T12 conditions are false]0[T5 conditions are false]0[T6 conditions are false]0[T10 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P1|()|  P2|()|  P3|()|  P4|()|  P11|()|  P5(Null)  P6(Null)  P7(Null)  P8(Null)  P9(Null)  P10(Null)  P12(Null)]
+ ExecutionList []
+[T1 conditions are false]0[T2 conditions are false]0[T3 conditions are false]0[T4 conditions are false]0[T11 conditions are false]0[T7 conditions are false]0[T8 conditions are false]0[T9 conditions are false]0[T12 conditions are false]0[T5 conditions are false]0[T6 conditions are false]0[T10 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P1|()|  P2|()|  P3|()|  P4|()|  P11|()|  P5(Null)  P6(Null)  P7(Null)  P8(Null)  P9(Null)  P10(Null)  P12(Null)]
+ ExecutionList []
+[T1 conditions are false]0[T2 conditions are false]0[T3 conditions are false]0[T4 conditions are false]0[T11 conditions are false]0[T7 conditions are false]0[T8 conditions are false]0[T9 conditions are false]0[T12 conditions are false]0[T5 conditions are false]0[T6 conditions are false]0[T10 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P1|()|  P2|()|  P3|()|  P4|()|  P11|()|  P5(Null)  P6(Null)  P7(Null)  P8(Null)  P9(Null)  P10(Null)  P12(Null)]
+ ExecutionList []
+[T1 conditions are false]0[T2 conditions are false]0[T3 conditions are false]0[T4 conditions are false]0[T11 conditions are false]0[T7 conditions are false]0[T8 conditions are false]0[T9 conditions are false]0[T12 conditions are false]0[T5 conditions are false]0[T6 conditions are false]0[T10 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P1|()|  P2|()|  P3|()|  P4|()|  P11|()|  P5(Null)  P6(Null)  P7(Null)  P8(Null)  P9(Null)  P10(Null)  P12(Null)]
+ ExecutionList []
+[T1 conditions are false]0[T2 conditions are false]0[T3 conditions are false]0[T4 conditions are false]0[T11 conditions are false]0[T7 conditions are false]0[T8 conditions are false]0[T9 conditions are false]0[T12 conditions are false]0[T5 conditions are false]0[T6 conditions are false]0[T10 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P1|()|  P2|()|  P3|()|  P4|()|  P11|()|  P5(Null)  P6(Null)  P7(Null)  P8(Null)  P9(Null)  P10(Null)  P12(Null)]
+ ExecutionList []
+[T1 conditions are false]0[T2 conditions are false]0[T3 conditions are false]0[T4 conditions are false]0[T11 conditions are false]0[T7 conditions are false]0[T8 conditions are false]0[T9 conditions are false]0[T12 conditions are false]0[T5 conditions are false]0[T6 conditions are false]0[T10 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P1|()|  P2|()|  P3|()|  P4|()|  P11|()|  P5(Null)  P6(Null)  P7(Null)  P8(Null)  P9(Null)  P10(Null)  P12(Null)]
+ ExecutionList []
+[T1 conditions are false]0[T2 conditions are false]0[T3 conditions are false]0[T4 conditions are false]0[T11 conditions are false]0[T7 conditions are false]0[T8 conditions are false]0[T9 conditions are false]0[T12 conditions are false]0[T5 conditions are false]0[T6 conditions are false]0[T10 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P1|()|  P2|()|  P3|()|  P4|()|  P11|()|  P5(Null)  P6(Null)  P7(Null)  P8(Null)  P9(Null)  P10(Null)  P12(Null)]
+ ExecutionList []
+[T1 conditions are false]0[T2 conditions are false]0[T3 conditions are false]0[T4 conditions are false]0[T11 conditions are false]0[T7 conditions are false]0[T8 conditions are false]0[T9 conditions are false]0[T12 conditions are false]0[T5 conditions are false]0[T6 conditions are false]0[T10 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P1|()|  P2|()|  P3|()|  P4|()|  P11|()|  P5(Null)  P6(Null)  P7(Null)  P8(Null)  P9(Null)  P10(Null)  P12(Null)]
+ ExecutionList []
+[T1 conditions are false]0[T2 conditions are false]0[T3 conditions are false]0[T4 conditions are false]0[T11 conditions are false]0[T7 conditions are false]0[T8 conditions are false]0[T9 conditions are false]0[T12 conditions are false]0[T5 conditions are false]0[T6 conditions are false]0[T10 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P1|()|  P2|()|  P3|()|  P4|()|  P11|()|  P5(Null)  P6(Null)  P7(Null)  P8(Null)  P9(Null)  P10(Null)  P12(Null)]
+ ExecutionList []
+[T1 conditions are false]0[T2 conditions are false]0[T3 conditions are false]0[T4 conditions are false]0[T11 conditions are false]0[T7 conditions are false]0[T8 conditions are false]0[T9 conditions are false]0[T12 conditions are false]0[T5 conditions are false]0[T6 conditions are false]0[T10 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P1|()|  P2|()|  P3|()|  P4|()|  P11|()|  P5(Null)  P6(Null)  P7(Null)  P8(Null)  P9(Null)  P10(Null)  P12(Null)]
+Waiting For Commands over this port:1080
+####################  Roundabout Petri Started  #####################
